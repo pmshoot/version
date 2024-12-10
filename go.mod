@@ -1,3 +1,3 @@
-module gitlab.rebrainme.com/petroff.mb/version
+module github.com/pmshoot/version
 
 go 1.22.2
